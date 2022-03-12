@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Portfolio](https://mogabr.web.app/)
 
-- 📝 I regularly write articles on [my dev.to account](https://dev.to/mohamedg7)
+- 📝 I regularly write articles on [my dev account](https://dev.to/mohamedg7)
 
 - 💬 Ask me about **react js**
 
