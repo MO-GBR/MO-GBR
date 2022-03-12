@@ -3,20 +3,20 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://mogabr.web.app/](https://mogabr.web.app/)
+- 👨‍💻 All of my projects are available at [My Personal Portfolio](https://mogabr.web.app/)
 
-- 📝 I regularly write articles on [https://dev.to/mohamedg7](https://dev.to/mohamedg7)
+- 📝 I regularly write articles on [my dev.to account](https://dev.to/mohamedg7)
 
 - 💬 Ask me about **react js**
 
-- 📄 Know about my experiences [https://mogabr.web.app/](https://mogabr.web.app/)
+- 📄 Know about my experiences [My Personal Portfolio](https://mogabr.web.app/)
 
 - ⚡ Fun fact: **I love to draw and play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mogabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mogabr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed gabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed gabr" height="30" width="40" /></a>
+<a href="https://dev.to/mohamedg7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mogabr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-gabr-7abb601bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed gabr" height="30" width="40" /></a>
 <a href="https://instagram.com/mo_gabr.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo_gabr.7" height="30" width="40" /></a>
 </p>
 
