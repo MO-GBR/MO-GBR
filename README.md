@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [my dev account](https://dev.to/mohamedg7)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **MERN STACK**
 
 - 📄 Know about my experiences [My Personal Portfolio](https://mogabr.web.app/)
 
