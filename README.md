@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [my dev account](https://dev.to/mohamedg7)
 
+- 🥅 2022 Goals: Learn more about web3
+
 - 💬 Ask me about **MERN STACK**
 
 - 📄 Know about my experiences [My Personal Portfolio](https://mogabr.web.app/)
