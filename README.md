@@ -27,13 +27,3 @@
 <br />
 <hr />
 <img align = "left"  alt = "MohamedG7 Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MohamedG7&show_icons=true&theme=radical"/>
-<hr />
-<h2 align="center">Contact</h2>
-<p align="center">
-I may be contacted through my <a href="https://chat.MohamedG7.com" target="_blank" rel="noopener noreferrer">Chat Server</a> or via <a href="https://mogabr.web.app/#contact" target="_blank" rel="noopener noreferrer">other social platforms</a>.
-</p>
-<p align="center">
-  <a href="https://chat.MohamedG7.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://rpc.MohamedG7.com" />
-  </a>
-</p>
