@@ -1,29 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">Full Stack web developer</h3>
+# Hi, I'm Mohamed 👋
 
-- 🌱 I’m currently learning **everything 🤣**
+I'm a passionate **Full-Stack Web Developer** focused on building modern, responsive, and user-friendly web applications.
 
-- 👨‍💻 All of my projects are available at [My Personal Portfolio](https://mogabr.web.app/)
+## 😎 Here is the process
+- Write clean code
+- Generate great design
+- Turning ideas into reality through web technologies.
 
-- 📝 I regularly write articles on [my dev account](https://dev.to/mohamedg7)
+### 👨‍💻 What I Do (Coding Process)
+- Craft **Modern UIs** with **React.js**, **Tailwind CSS**, **Motion**, **GSAP**, and More as long as I learn more 😂.
+- Build powerful **full-stack** apps using **Node.js**, **Express**, **GraphQL**, and **REST APIs**
+- Use **Next.js** for full-stack projects with **TypeScript**, **Zod**, and **Prisma**
+- Manage state using **Zustand** and **Redux**
+- Work with both **MongoDB** and **PostgreSQL** databases
+- Integrate secure authentication with **JWT**, **Auth.js**, and **Google OAuth (Passport.js)**
+- Implement real-time features using **Socket.IO**
+- Handle payments with **Stripe** and webhooks
 
-- 🥅 2022 Goals: Learn more about web3
+### 🧠 Tech Stack
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frontend**: React, Next.js, Tailwind, Motion, GSAP
+- **Backend**: Node.js, Express, GraphQL, REST APIs
+- **Database**: PostgreSQL, MongoDB, Prisma, Mongoose
+- **Auth**: Auth.js, JWT, Passport.js (Google OAuth)
+- **Other Tools**: Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
 
-- 💬 Ask me about **MERN STACK**
+### 🚀 Goals
 
-- 📄 Know about my experiences [My Personal Portfolio](https://mogabr.web.app/)
+- Keep improving my skills and contributing to open-source
+- Collaborate with other developers and grow as a professional
 
-- ⚡ Fun fact: **I love to draw and play chess**
+### 📫 Get in Touch
+- Portfolio: [View](https://portfolio-dev-flame.vercel.app/)
+- Email: [Contact](mailto:mohameedgabr7@gmail.com)
+- LinkedIn: [View](https://linkedin.com/in/yourusername)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mohamedg7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mogabr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-gabr-7abb601bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed gabr" height="30" width="40" /></a>
-<a href="https://instagram.com/mo_gabr.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo_gabr.7" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br />
-<hr />
-<img align = "left"  alt = "MO-GBR Github Stats" src = "https://github-readme-stats.vercel.app/api?username=MO-GBR&show_icons=true&theme=radical"/>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 🌟
