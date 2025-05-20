@@ -33,7 +33,7 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 ### 📫 Get in Touch
 - Portfolio: [View](https://portfolio-dev-flame.vercel.app/)
 - Email: [Contact](mailto:mohameedgabr7@gmail.com)
-- LinkedIn: [View](https://linkedin.com/in/yourusername)
+- LinkedIn: [View](https://www.linkedin.com/in/mohameedgabr0/)
 
 ---
 
