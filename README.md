@@ -18,12 +18,12 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - Handle payments with **Stripe** and webhooks
 
 ### 🧠 Tech Stack
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frontend**: React, Next.js, Tailwind, Motion, GSAP
-- **Backend**: Node.js, Express, GraphQL, REST APIs
-- **Database**: PostgreSQL, MongoDB, Prisma, Mongoose
-- **Auth**: Auth.js, JWT, Passport.js (Google OAuth)
-- **Other Tools**: Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
+- **Languages** 👉 JavaScript, TypeScript, HTML, CSS
+- **Frontend** 👉 React, Next.js, Tailwind, Motion, GSAP
+- **Backend** 👉 Node.js, Express, GraphQL, REST APIs
+- **Database** 👉 PostgreSQL, MongoDB, Prisma, Mongoose
+- **Auth** 👉 Auth.js, JWT, Passport.js (Google OAuth)
+- **Other Tools** 👉 Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
 
 ### 🚀 Goals
 
