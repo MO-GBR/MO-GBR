@@ -35,7 +35,7 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - Email: [Contact](mailto:mohameedgabr7@gmail.com)
 - LinkedIn: [View](https://www.linkedin.com/in/mohameedgabr0/)
 
-![Static Badge](https://img.shields.io/badge/:Next-JS)
+![Static Badge](https://img.shields.io/badge/Next-JS)
 
 ---
 
