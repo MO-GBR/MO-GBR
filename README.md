@@ -35,6 +35,8 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - Email: [Contact](mailto:mohameedgabr7@gmail.com)
 - LinkedIn: [View](https://www.linkedin.com/in/mohameedgabr0/)
 
+![Static Badge](https://img.shields.io/badge/:Next-JS)
+
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
