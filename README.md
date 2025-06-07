@@ -25,6 +25,8 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - **Auth** 👉 Auth.js, JWT, Passport.js (Google OAuth)
 - **Other Tools** 👉 Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MO-GBR&layout=donut-vertical)](https://github.com/MO-GBR/github-readme-stats)
+
 ### 🚀 Goals
 
 - Keep improving my skills and contributing to open-source
