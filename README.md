@@ -26,15 +26,12 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - **Database** 👉 PostgreSQL, MongoDB, Prisma, Mongoose
 - **Auth** 👉 Auth.js, JWT, Passport.js (Google OAuth)
 - **Other Tools** 👉 Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MO-GBR&layout=donut-vertical)](https://github.com/MO-GBR/github-readme-stats)
+- **Testing** 👉 Jest, React Testing Library
 
 ### 🚀 Goals
 
 - Keep improving my skills and contributing to open-source
 - Collaborate with other developers and grow as a professional
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=MO-GBR)
 
 ### 📫 Get in Touch
 - Portfolio: [View](https://portfolio-dev-flame.vercel.app/)
