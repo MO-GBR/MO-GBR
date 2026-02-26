@@ -2,7 +2,7 @@
 
 I'm a passionate **Full-Stack Web Developer** focused on building modern, responsive, and user-friendly web applications.
 
-![[Banner.png]]
+![[./Banner.png]]
 
 ## 😎 Here is the process
 - Write clean code
