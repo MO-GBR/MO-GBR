@@ -1,25 +1,29 @@
 # Hi, I'm Mohamed 👋
 
-I'm a passionate **Full-Stack Web Developer** focused on building modern, responsive, and user-friendly web applications.
+I’m a full-stack web developer who enjoys building modern, scalable, and real-time web applications from scratch.
+
+---
+
+Over the past year, I’ve focused on mastering the full JavaScript ecosystem — from responsive UI design to backend architecture and database design. I enjoy turning complex ideas into clean, production-ready applications with smooth user experiences and solid performance.
 
 ![Banner](./Banner.png)
 
-## 😎 Here is the process
-- Write clean code
+## 😎 Here is the process in a very simple way
 - Generate great design
+- Write clean code
 - Turning ideas into reality through web technologies.
 
-### 👨‍💻 What I Do (Coding Process)
-- Craft **Modern UIs** with **React.js**, **Tailwind CSS**, **Motion**, **GSAP**, and More as long as I learn more 😂.
-- Build powerful **full-stack** apps using **Node.js**, **Express**, **GraphQL**, and **REST APIs**
-- Use **Next.js** for full-stack projects with **TypeScript**, **Zod**, and **Prisma**
-- Manage state using **Zustand** and **Redux**
-- Work with both **MongoDB** and **PostgreSQL** databases
-- Integrate secure authentication with **JWT**, **Auth.js**, and **Google OAuth (Passport.js)**
-- Implement real-time features using **Socket.IO**
-- Handle payments with **Stripe** and webhooks
+## 👨‍💻 What I Do
+- Full-stack web application development (from idea to deployment)
+- Responsive and modern UI implementation from Figma or design files
+- Real-time features such as chat, notifications, and live updates
+- E-commerce development, including authentication, cart, payments, and admin dashboards
+- API development and integration using REST or GraphQL
+- Database design and optimization with PostgreSQL or MongoDB
+- AI feature integration, such as document processing, embeddings, and AI-powered responses
+- Performance optimization and code refactoring for existing React or Node.js projects
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 - **Languages** 👉 JavaScript, TypeScript, HTML, CSS
 - **Frontend** 👉 React, Next.js, Sass & Scss, Tailwind Css, Motion, GSAP
 - **Backend** 👉 Node.js, Express, GraphQL, REST APIs
@@ -28,12 +32,18 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - **Other Tools** 👉 Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
 - **Testing** 👉 Jest, React Testing Library
 
-### 🚀 Goals
+## 🎓 Certifications
+- Responsive Web Design 👉 [freeCodeCamp](https://www.freecodecamp.org/certification/mogabr/responsive-web-design)
+- Front-End Development Libraries 👉 [freeCodeCamp](https://www.freecodecamp.org/certification/mogabr/front-end-development-libraries)
+- Back-End Development & APIs 👉 [freeCodeCamp](https://www.freecodecamp.org/certification/mogabr/back-end-development-and-apis)
+- JavaScript Data Structures & Algorithms 👉 [freeCodeCamp](https://www.freecodecamp.org/certification/mogabr/javascript-algorithms-and-data-structures)
+
+## 🚀 Goals
 
 - Keep improving my skills and contributing to open-source
 - Collaborate with other developers and grow as a professional
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 - Portfolio: [View](https://portfolio-dev-flame.vercel.app/)
 - Email: [Contact](mailto:mohameedgabr7@gmail.com)
 - LinkedIn: [View](https://www.linkedin.com/in/mohameedgabr0/)
