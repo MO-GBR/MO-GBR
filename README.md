@@ -27,6 +27,9 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern, respon
 - **Auth** 👉 Auth.js, JWT, Passport.js (Google OAuth)
 - **Other Tools** 👉 Zustand, Redux, Stripe, Vercel, Render, Git, Socket.IO
 - **Testing** 👉 Jest, React Testing Library
+- **AI Workflows** 👉 n8n
+
+![Stack](./Stack.png)
 
 ### 🚀 Goals
 
